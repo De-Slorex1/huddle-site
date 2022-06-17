@@ -232,6 +232,7 @@ span{
 }
 .icons{
     padding: 20px;
+    filter: invert(100%);
 }
 .copyright{
     text-align: right;
